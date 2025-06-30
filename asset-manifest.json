@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/ataraxia1630/vethuoc/static/js/main.73344c20.js",
-    "index.html": "/ataraxia1630/vethuoc/index.html",
-    "main.73344c20.js.map": "/ataraxia1630/vethuoc/static/js/main.73344c20.js.map"
+    "main.js": "/vethuoc/static/js/main.73344c20.js",
+    "index.html": "/vethuoc/index.html",
+    "main.73344c20.js.map": "/vethuoc/static/js/main.73344c20.js.map"
   },
   "entrypoints": [
     "static/js/main.73344c20.js"
